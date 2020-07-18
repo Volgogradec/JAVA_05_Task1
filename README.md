@@ -15,4 +15,4 @@
 
 Итого: у вас должен быть репозиторий на GitHub, в котором расположен ваш Java-код (pom.xml и код автотестов также должны быть в репозитории).
 
-Готово: [Java-код по заданию](https://github.com/Volgogradec/JAVA_04_Task2/blob/master/src/Main.java)
+**Готово!**
